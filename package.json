@@ -1,0 +1,13 @@
+{
+  "name": "hatobot",
+  "version": "1.0.0",
+  "description": "A hatoful bot",
+  "main": "bot.js",
+  "author": "ii",
+  "scripts": {
+      "start": "node bot.js"
+   },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
