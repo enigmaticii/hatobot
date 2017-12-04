@@ -35,7 +35,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 });
             break;
             // Just add any case commands if you want to..
-         client.login(process.env.BOT_TOKEN)
+         client.login(process.env.Mzg3MzU5OTk0MTE2NDQwMDY4.DQdiBQ.fE9ii_XeL_ys12F1g4De5iR6RN4)
          }
      }
 });
